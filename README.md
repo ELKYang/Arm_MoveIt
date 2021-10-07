@@ -2,8 +2,6 @@
 Simulation operation of six-axis manipulator based on ROS (including point position control and trajectory control of the manipulator)
 # 机械臂操作文档
 
-姓名:杨帆		学号:1711503		专业:智能科学与技术
-
 ## 一.平台说明
 
 操作系统:`Ubuntu 16.04`
